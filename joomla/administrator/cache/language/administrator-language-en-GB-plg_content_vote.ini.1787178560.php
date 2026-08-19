@@ -1,0 +1,16 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_CONTENT_VOTE' => 'Content - Vote',
+  'PLG_VOTE_BOTTOM' => 'Bottom',
+  'PLG_VOTE_LABEL' => 'Please Rate',
+  'PLG_VOTE_POSITION_LABEL' => 'Position',
+  'PLG_VOTE_RATE' => 'Rate',
+  'PLG_VOTE_STAR_RATING' => 'Rating: %s out of 5',
+  'PLG_VOTE_TOP' => 'Top',
+  'PLG_VOTE_TOTAL_VOTES' => 'Total Votes: %d',
+  'PLG_VOTE_TOTAL_VOTES_LABEL' => 'Number of Votes',
+  'PLG_VOTE_USER_RATING' => 'User Rating:&#160;%1$s&#160;/&#160;%2$s',
+  'PLG_VOTE_VOTE' => 'Vote %d',
+  'PLG_VOTE_XML_DESCRIPTION' => 'Add Voting functionality to Articles.',
+);

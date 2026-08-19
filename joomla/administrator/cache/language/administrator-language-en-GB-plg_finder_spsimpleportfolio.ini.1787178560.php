@@ -1,0 +1,8 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_FINDER_SPSIMPLEPORTFOLIO' => 'Smart Search - SP Simple Portfolio',
+  'PLG_FINDER_SPSIMPLEPORTFOLIO_XML_DESCRIPTION' => 'Updates the indexes of SP Simple Portfolio Items whenever an item is created, modified or deleted. NOTE the SP Simple Portfolio - Smart Search plugin must be enabled.',
+  'PLG_FINDER_QUERY_FILTER_BRANCH_P_PORTFOLIO_ITEM' => 'Portfolio Items',
+  'PLG_FINDER_QUERY_FILTER_BRANCH_S_PORTFOLIO_ITEM' => 'Portfolio Item',
+);

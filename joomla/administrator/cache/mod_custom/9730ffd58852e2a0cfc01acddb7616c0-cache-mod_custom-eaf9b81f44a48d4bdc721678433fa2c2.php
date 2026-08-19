@@ -1,0 +1,5 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:419:"<div class="sp-module "><h3 class="sp-module-title">About Helix</h3><div class="sp-module-content">
+<div id="mod-custom94" class="mod-custom custom">
+    <p>Ball tip biltong pork belly frankfurter shankle jerky leberkas pig kielbasa kay boudin alcatra short loin.</p>
+<p>Jowl salami leberkas turkey pork brisket meatball turducken flank bilto porke belly ball tip. pork belly frankf urtane bilto</p></div>
+</div></div>";s:6:"output";a:2:{s:4:"body";s:0:"";s:4:"head";a:1:{s:12:"assetManager";a:2:{s:13:"registryFiles";a:4:{i:0;s:30:"media/vendor/joomla.asset.json";i:1;s:30:"media/system/joomla.asset.json";i:2;s:46:"media/plg_system_guidedtours/joomla.asset.json";i:3;s:46:"media/plg_behaviour_compat6/removed.asset.json";}s:6:"assets";a:0:{}}}}}
